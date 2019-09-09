@@ -13,7 +13,7 @@ For this lab you will:
 - write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the `queries.md` file under the appropriate heading.
 - write API endpoints to manage the `accounts` resource, including database logic
 
-### Write Basic Queries
+### Write Basic Queries ✔
 
 Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top) using the **Google Chrome (or Chromium if you use Linux) browser** and write _SQL queries_ for the following requirements:
 
